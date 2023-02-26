@@ -16,7 +16,7 @@ useLayoutEffect(() => {
     const navigation = useNavigation()
   return (
     <SafeAreaView>
-      <Text className="text-red-500">
+      <Text className="text-red-400">
       {/* Header */}
       <View className="flex-row pb-3 items-center mx-4 space-x-2">
         <Image
